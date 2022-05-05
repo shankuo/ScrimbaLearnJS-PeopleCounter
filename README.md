@@ -1,1 +1,0 @@
-# ScrimbaLearnJS-PeopleCounter
